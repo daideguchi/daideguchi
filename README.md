@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Web3 technology
 - 🌵 I'm learning "solidity", "Nextjs", "Django"
 
+[![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=daideguchi&left_color=gray&right_color=blue)
+ 
+***
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=daideguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/daideguchi/)
@@ -10,18 +14,7 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daideguchi&layout=compact&theme=tokyonight)](https://github.com/daideguchi/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=daideguchi)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**daideguchi/daideguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![glaph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daideguchi&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

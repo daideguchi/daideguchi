@@ -10,8 +10,6 @@
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=daideguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/daideguchi/)
-
-<!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daideguchi&layout=compact&theme=tokyonight)](https://github.com/daideguchi/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daideguchi)](https://github.com/ryo-ma/github-profile-trophy)

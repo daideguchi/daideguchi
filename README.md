@@ -1,6 +1,6 @@
 ### Welcome to my page　😁
 ***
-- 🌱 I’m currently learning Web3 technology.(Smartcontract , Blockchain)
+- 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)
 - 🌵 I'm learning "solidity", "javascript(Next.js , React)", "Django"
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)

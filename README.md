@@ -5,9 +5,9 @@
 - 🥦 My skill is "PHP" , "MYSQL"
 ***
 
-🖌 ⌲_[Study output blog __Repository(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵
+🖌  ⌲_[Study output blog __Repository(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵
 
-💁🏻‍♂️ ⌲_[myProfile site __Repository(Nextjs, tailwindCSS, Deploy to vercel)](https://github.com/daideguchi/myProfileSite)..by Japan🇯🇵
+💁🏻‍♂️  ⌲_[myProfile site __Repository(Nextjs, tailwindCSS, Deploy to vercel)](https://github.com/daideguchi/myProfileSite)..by Japan🇯🇵
 ***
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)

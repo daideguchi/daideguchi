@@ -4,7 +4,10 @@
 - 🌵 I'm learning "solidity", "javascript(Next.js(React))" , "Tailwind.css)", "Django"
 - 🥦 My skill is "PHP" , "MYSQL"
 ***
-⌲[myProfile site(Deploy to vercel)](https://my-profile-site-gamma.vercel.app/)..by Japan🇯🇵
+⌲_[Study output blog __repogitory(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵
+
+***
+⌲_[myProfile site(Deploy to vercel)](https://my-profile-site-gamma.vercel.app/)..by Japan🇯🇵
 ***
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)

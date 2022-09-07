@@ -1,4 +1,4 @@
-### Welcome to my page　😁【langage -> Japanese🇯🇵  English🇺🇸】
+### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
 - 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)
 - 🌵 I'm learning "solidity", "javascript(Next.js(React))" , "Tailwind.css)", "Django"

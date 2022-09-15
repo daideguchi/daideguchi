@@ -1,13 +1,13 @@
 ### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
-- 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)
-- 🌵 I'm learning "solidity", "Next.js(React)" , "Tailwind.css", "Django"
-- 🥦 My skill is "PHP" , "MYSQL"
+- 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)　　【Web3.0周りを学習中です】
+- 🌵 I'm learning "solidity", "Next.js(React)" , "Tailwind.css", "Django"　　【主にsolidityとNext.jsを勉強しています】
+- 🥦 My skill is "PHP" , "MYSQL"　　【PHPとMYSQLで簡単なプロダクトは作成できます】
 ***
 
-🖌  _[Study output blog __Repository(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵
+🖌  _[Study output blog __Repository(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵　【勉強のアウトプット用ブログです】
 
-💁🏻‍♂️  _[My profile site __Repository(Nextjs, tailwindCSS, Deploy to vercel)](https://github.com/daideguchi/myProfileSite)..by Japan🇯🇵
+💁🏻‍♂️  _[My profile site __Repository(Nextjs, tailwindCSS, Deploy to vercel)](https://github.com/daideguchi/myProfileSite)..by Japan🇯🇵　【私のプロフィール】
 ***
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)

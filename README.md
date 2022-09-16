@@ -7,7 +7,6 @@
 
 🖌  _[Study output blog __Repository(Hugo)](https://github.com/daideguchi/tec_studies_blog)..by Japan🇯🇵　【勉強のアウトプット用ブログです】
 
-💁🏻‍♂️  _[My profile site __Repository(Nextjs, tailwindCSS, Deploy to vercel)](https://github.com/daideguchi/myProfileSite)..by Japan🇯🇵　【私のプロフィール】
 ***
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)

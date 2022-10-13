@@ -1,7 +1,7 @@
 ### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
 - 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)　　【Web3.0周りを学習中です】
-- 🌵 I'm learning "solidity", "Next.js(React)" , "Tailwind.css", "Django"　　【主にsolidityとNext.jsを勉強しています】
+- 🌵 I'm learning "solidity", "Next.js(React)","typescript", "Tailwind.css", "Django"　　【主にsolidityとNext.jsを勉強しています】
 - 🥦 My skill is "PHP" , "MYSQL"　　【PHPとMYSQLで簡単なプロダクトは作成できます】
 ***
 

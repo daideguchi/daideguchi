@@ -1,6 +1,6 @@
 ### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
-- 📣 Educational web application under development　【教育webプラットフォームのスタートアップ事業参画 HTML/CSS(Tailwind)/JavaScript/React(next.js)/Django】
+- 📣 Educational web application under development　【教育webAIプラットフォームのスタートアップ事業参画 HTML/CSS(Tailwind)/JavaScript/React/OpenAI/Django】
 - 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)　　【趣味でWeb3.0周りを学習中】
 - 🌵 I'm learning "solidity","TypeScript"　【趣味の延長でsolidityとTypeScriptを勉強しています】
 - 🥦 My skill is "PHP" , "MYSQL"　【PHPとMYSQLで簡単なプロダクトは作成できます/Laravel学習中】

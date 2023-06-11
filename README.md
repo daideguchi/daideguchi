@@ -1,7 +1,7 @@
 ### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
 - 📣 AIを活用したアプリリリースやいろんな事業をやってます。🖥
-- 📣 AI教育webプラットフォームのスタートアップ事業参画 React & Django
+- 📣 AI教育webプラットフォームのスタートアップ事業参画【Eletus株式会社取締役】 React & Django & Docker & Azure
 - 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)　【趣味でWeb3.0周りを学習中】
 - 🌵 I'm learning "solidity","TypeScript"　【趣味の延長でsolidityとTypeScriptを勉強しています】
 - 🥦 My skill is "PHP" , "MYSQL"　【PHPとMYSQLで簡単なプロダクトは作成できます/Laravel学習中】

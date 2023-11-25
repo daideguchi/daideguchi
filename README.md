@@ -3,7 +3,7 @@
 - 🗣️ React / Django / Azure / Docker ...
 - 📣 AIを活用したアプリリリースやいろんな事業をやってます。🖥
 - 📣 AI教育webプラットフォームのスタートアップ事業参画【Eletus株式会社取締役】
-- 📣 AIによる対話型プラットフォームの構築中【LLMをもっと身近に、"人の役に立つ"がコンセプト】
+- 📣 AIによる対話型プラットフォームの"EchoVerse"開発中【LLMをもっと身近に、"人の役に立つ"がコンセプト】
 - 🌱 I’m currently learning Web3.0 technology.(Smartcontract , Blockchain)　【趣味でWeb3.0周りを学習中】
 - 🌵 I'm learning "solidity","TypeScript"　【趣味の延長でsolidityとTypeScriptを勉強しています】
 - 🥦 My skill is "PHP" , "MYSQL"　【PHPとMYSQLで簡単なプロダクトは作成できます/Laravel学習中】

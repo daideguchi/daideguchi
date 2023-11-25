@@ -9,7 +9,7 @@
 - 🥦 My skill is "PHP" , "MYSQL"　【PHPとMYSQLで簡単なプロダクトは作成できます/Laravel学習中】
 ***
 
-# 開発はプライベートリポジトリで行っています。ぜひSNSでフォローをお願いします。
+### 開発はプライベートリポジトリで行っています。ぜひSNSでフォローをお願いします。
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
  
 ***

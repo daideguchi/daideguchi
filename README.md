@@ -12,8 +12,8 @@
 ***
 
 ### 開発はプライベートリポジトリで行っています。ぜひSNSでフォローをお願いします。
-- 💻wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press](https://note.com/dai_11107/n/ndbb356870a81)
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
+- 💻wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press【noteのページへ】](https://note.com/dai_11107/n/ndbb356870a81)
+- [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
  
 ***
 

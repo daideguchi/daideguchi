@@ -1,6 +1,6 @@
 ### Welcome to my page　😁【language -> Japanese🇯🇵  English🇺🇸】
 ***
-- 🗣️ 言語：/ python / Javascript / ...
+- 🗣️ 言語：/ Python / Javascript / ...
 - 🗣️ フレームワーク：/ React / Django / Tailwind / ...
 - 🗣️ インフラ: / Azure / Docker / postgreSQL / ...
 - 📣 AIを活用したアプリリリースやいろんな事業をやってます。🖥
@@ -12,6 +12,7 @@
 ***
 
 ### 開発はプライベートリポジトリで行っています。ぜひSNSでフォローをお願いします。
+- 💻wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press](https://note.com/dai_11107/n/ndbb356870a81)
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
  
 ***

@@ -13,7 +13,7 @@
 - ✅ youtubeの収益化分析をしてくれるツール。[youtube Adchecker](https://youtube-adcheck.com)
 - 🎥 youtubeのシナリオを考えてくれるAIツール（起動に15秒） [youtubeシナリオライター](https://youtube-writer.onrender.com)
 - 🗒️ ブログ記事（AIが全自動で生成している記事）[テクノロジーのハックブログ](https://tec-hack-blog.site/)
-- 🛍️ MyGPTs [楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
+- 🛍️ MyGPTs:購入されるとアフィリエイト報酬が入る仕組み [楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
 - 📣 AIチャットのモバイルアプリ開発中（無料で最新のAIに触れられるアプリ）
 ***
 

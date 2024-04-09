@@ -15,8 +15,8 @@
 - 🗒️ ブログ記事（AIが全自動で生成している記事）[テクノロジーのハックブログ](https://tec-hack-blog.site/)
 - 🛍️ MyGPTs [楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
 - 📣 AIチャットのモバイルアプリ開発中（無料で最新のAIに触れられるアプリ）
-- [![Twitter](https://img.shields.io/twitter/follow/dai\_fukuoka?style=social)\](https://twitter.com/dai\_fukuoka)
-- [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white)\](https://www.instagram.com/dai\_fukugyou\_/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)\](https://twitter.com/dai\_fukuoka)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)\](https://www.instagram.com/dai\_fukugyou\_/)
 ***
 
 <!-- リポジトリステータス -->

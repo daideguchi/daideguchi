@@ -8,15 +8,14 @@
 - 🌱 Smartcontract , Blockchain ... Web3.0周りも得意です
 ***
 
-### 開発はプライベートリポジトリで行っています。ぜひSNSでフォローをお願いします。
+### メイン開発はプライベートリポジトリで行っています。
 - 💻 wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press【noteのページへ】](https://note.com/dai_11107/n/ndbb356870a81)
 - ✅ youtubeの収益化分析をしてくれるツール。[youtube Adchecker](https://youtube-adcheck.com)
 - 🎥 youtubeのシナリオを考えてくれるAIツール（起動に15秒） [youtubeシナリオライター](https://youtube-writer.onrender.com)
 - 🗒️ ブログ記事（AIが全自動で生成している記事）[テクノロジーのハックブログ](https://tec-hack-blog.site/)
 - 🛍️ MyGPTs [楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
 - 📣 AIチャットのモバイルアプリ開発中（無料で最新のAIに触れられるアプリ）
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)\](https://twitter.com/dai\_fukuoka)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)\](https://www.instagram.com/dai\_fukugyou\_/)
+- [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai\_fukuoka?style=social)\](https://twitter.com/dai\_fukuoka)
 ***
 
 <!-- リポジトリステータス -->

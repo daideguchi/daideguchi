@@ -16,7 +16,7 @@
 - 🛍️ MyGPTs [楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
 - 📣 AIチャットのモバイルアプリ開発中（無料で最新のAIに触れられるアプリ）
 - [![Twitter: maki_saki](https://img.shields.io/twitter/follow/dai_fukuoka?style=social)](https://twitter.com/dai_fukuoka)
-- ![Instagram: dai_fukugyou_(https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dai\_fukugyou\_/)\](https://www.instagram.com/dai\_fukugyou\_/)
+- [!Instagram: dai_fukugyou_(https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dai\_fukugyou\_/)\](https://www.instagram.com/dai\_fukugyou\_/)
 ***
 
 <!-- リポジトリステータス -->

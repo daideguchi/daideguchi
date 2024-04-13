@@ -12,7 +12,7 @@
 - 💻 wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press【noteのページへ】](https://note.com/dai_11107/n/ndbb356870a81)
 - ✅ youtubeの収益化分析をしてくれるツール。[youtube Adchecker](https://youtube-adcheck.com)
 - 🎥 youtubeのシナリオを考えてくれるAIツール（起動に15秒） [youtubeシナリオライター](https://youtube-writer.onrender.com)
-- 🗒️ ブログ記事（AIが全自動で生成している記事）[テクノロジーのハックブログ](https://tec-hack-blog.site/)
+- 🗒️ ブログ記事（AIが全自動稼働しているので完全放置）[テクノロジーのハックブログ](https://tec-hack-blog.site/)
 - 🛍️ MyGPTs:購入されると開発者にアフィリエイト報酬が入ります[楽天ショッピングアシスタント](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto)
 - 📣 AIチャットのiosアプリ[無料で最新のAIに触れられるアプリ](https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242)
 ***

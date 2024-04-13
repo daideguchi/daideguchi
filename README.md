@@ -9,6 +9,7 @@
 ***
 
 ### メイン開発はプライベートリポジトリで行っています。
+- ✏️ solidityの勉強ブログ:Hugoのマークダウン。[勉強アウトプット](https://daideguchi.github.io/tec_studies_blog/)
 - 💻 wordpressの記事投稿自動化Pythonスクリプトを配布しています。[auto_press【noteのページへ】](https://note.com/dai_11107/n/ndbb356870a81)
 - ✅ youtubeの収益化分析をしてくれるツール。[youtube Adchecker](https://youtube-adcheck.com)
 - 🎥 youtubeのシナリオを考えてくれるAIツール（起動に15秒） [youtubeシナリオライター](https://youtube-writer.onrender.com)

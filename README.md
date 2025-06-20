@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AIテクノロジー起業家&fontSize=50&fontAlignY=35&desc=人工知能で未来を創造する%20|%20AI%20Tech%20Entrepreneur&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AI%20Tech%20Entrepreneur&fontSize=50&fontAlignY=35&desc=Building%20the%20Future%20with%20Artificial%20Intelligence&descAlignY=55&animation=twinkling" width="100%"/>
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=こんにちは！出口+大+です+👋;AIプロダクト開発者+%26+テクノロジー起業家" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there!+I'm+Dai+Deguchi+👋;AI+Product+Developer+%26+Tech+Entrepreneur;Building+AI+Solutions+for+Real+World+Problems" alt="Typing SVG" />
   </a>
   
   <!-- Social Links -->

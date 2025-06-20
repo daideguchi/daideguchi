@@ -5,7 +5,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=こんにちは！出口%20大%20です%20👋;AIプロダクト開発者%20%26%20テクノロジー起業家" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=こんにちは！出口+大+です+👋;AIプロダクト開発者+%26+テクノロジー起業家" alt="Typing SVG" />
   </a>
   
   <!-- Social Links -->
@@ -28,216 +28,142 @@
 
 <br>
 
-<!-- About Me Section with Gradient Background -->
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_自己紹介_|_About_Me-1a1b27?style=for-the-badge&labelColor=00D9FF&color=1a1b27" width="100%"/>
+  <img src="https://img.shields.io/badge/🚀_自己紹介_|_About_Me-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
+## 🧠 **AIイノベーションリーダー | AI Innovation Leader**
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        
-### 🧠 **AIイノベーションリーダー** 
-#### AI Innovation Leader
-        
-🎯 **アイデアをAIソリューションに変える**
-- 🤖 **GPT**、**機械学習**、**自動化**のスペシャリスト
-- 🚀 実世界の課題を解決する**AI SaaSプロダクト**を開発
-- 💡 **Eletus株式会社 取締役** - AI教育プラットフォーム
-- 🌐 **Web3.0**、**ブロックチェーン**、**スマートコントラクト**のエキスパート
-        
-      </td>
-      <td width="50%">
-        
-### 🎓 **技術スタック & 専門分野**
-#### Tech Stack & Expertise
-        
-```text
-AI/機械学習  ████████████████████░ 95%
-Python      ███████████████████░░ 90%
-React       █████████████████░░░░ 85%
-Web3.0      ████████████████░░░░░ 80%
-モバイル開発  ███████████████░░░░░░ 75%
-```
-        
-      </td>
-    </tr>
-  </table>
+  
+| **🎯 専門分野** | **📊 技術レベル** |
+|:---|:---|
+| 🤖 **GPT**、**機械学習**、**自動化**のスペシャリスト | **AI/機械学習**: ████████████████████░ 95% |
+| 🚀 実世界の課題を解決する**AI SaaSプロダクト**を開発 | **Python**: ███████████████████░░ 90% |
+| 💡 **Eletus株式会社 取締役** - AI教育プラットフォーム | **React**: █████████████████░░░░ 85% |
+| 🌐 **Web3.0**、**ブロックチェーン**、**スマートコントラクト**のエキスパート | **Web3.0**: ████████████████░░░░░ 80% |
+| 📱 モバイルアプリからWebアプリまで幅広く開発 | **モバイル開発**: ███████████████░░░░░░ 75% |
+
 </div>
 
 <br>
 
 <!-- Featured AI Projects Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_注目のAIプロダクト_|_Featured_AI_Projects-1a1b27?style=for-the-badge&labelColor=FF6B6B&color=1a1b27" width="100%"/>
+  <img src="https://img.shields.io/badge/🤖_注目のAIプロダクト_|_Featured_AI_Projects-FFFFFF?style=for-the-badge&labelColor=FF6B6B&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://youtube-adcheck.com">
-          <img src="https://img.shields.io/badge/YouTube_AdChecker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>🎥 YouTube収益化分析ツール</b><br>
-        <i>AIによるYouTubeチャンネル分析 | AI-powered monetization analysis</i><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-00D9FF?style=flat-square"/>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://youtube-writer.onrender.com">
-          <img src="https://img.shields.io/badge/AI_Script_Writer-9146FF?style=for-the-badge&logo=twitch&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>📝 YouTubeシナリオAI</b><br>
-        <i>魅力的な動画シナリオを自動生成 | Auto-generate engaging video scripts</i><br>
-        <img src="https://img.shields.io/badge/GPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square"/>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242">
-          <img src="https://img.shields.io/badge/AI_Chat_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>💬 AIチャットマスター</b><br>
-        <i>高度なAI会話アプリ | Advanced AI conversation app</i><br>
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto">
-          <img src="https://img.shields.io/badge/Shopping_Assistant-FF6F61?style=for-the-badge&logo=shopify&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>🛍️ 楽天ショッピングAIアシスタント</b><br>
-        <i>スマートショッピング推薦GPT | Smart shopping recommendation GPT</i><br>
-        <img src="https://img.shields.io/badge/GPTs-412991?style=flat-square"/>
-        <img src="https://img.shields.io/badge/E--commerce-FF6F61?style=flat-square"/>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://tec-hack-blog.site/">
-          <img src="https://img.shields.io/badge/Auto_Blog_AI-00C853?style=for-the-badge&logo=medium&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>🤖 完全自動ブログシステム</b><br>
-        <i>AI駆動コンテンツ生成 | AI-driven content generation system</i><br>
-        <img src="https://img.shields.io/badge/Automation-00C853?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CMS-FF5722?style=flat-square"/>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://note.com/dai_11107/n/ndbb356870a81">
-          <img src="https://img.shields.io/badge/WordPress_Auto-21759B?style=for-the-badge&logo=wordpress&logoColor=white" width="200px"/>
-        </a>
-        <br><br>
-        <b>⚡ WordPress自動投稿ツール</b><br>
-        <i>自動投稿Pythonスクリプト | Python script for auto-posting</i><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/API-FF9800?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🎯 **主要AIプロダクト**
+
+### 📱 **モバイル & Web アプリケーション**
+
+| プロダクト | 説明 | 技術スタック |
+|:---|:---|:---|
+| [🎥 **YouTube収益化分析ツール**](https://youtube-adcheck.com) | AIによるYouTubeチャンネル分析<br>*AI-powered monetization analysis* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-00D9FF?style=flat) |
+| [📝 **YouTubeシナリオAI**](https://youtube-writer.onrender.com) | 魅力的な動画シナリオを自動生成<br>*Auto-generate engaging video scripts* | ![GPT](https://img.shields.io/badge/GPT-74aa9c?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat) |
+| [💬 **AIチャットマスター**](https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242) | 高度なAI会話アプリ<br>*Advanced AI conversation app* | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat) |
+
+### 🛍️ **AI アシスタント & 自動化**
+
+| プロダクト | 説明 | 技術スタック |
+|:---|:---|:---|
+| [🛍️ **楽天ショッピングAIアシスタント**](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto) | スマートショッピング推薦GPT<br>*Smart shopping recommendation GPT* | ![GPTs](https://img.shields.io/badge/GPTs-412991?style=flat) ![E-commerce](https://img.shields.io/badge/E--commerce-FF6F61?style=flat) |
+| [🤖 **完全自動ブログシステム**](https://tec-hack-blog.site/) | AI駆動コンテンツ生成<br>*AI-driven content generation system* | ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) ![CMS](https://img.shields.io/badge/CMS-FF5722?style=flat) |
+| [⚡ **WordPress自動投稿ツール**](https://note.com/dai_11107/n/ndbb356870a81) | 自動投稿Pythonスクリプト<br>*Python script for auto-posting* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![API](https://img.shields.io/badge/API-FF9800?style=flat) |
 
 <br>
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/💻_技術スタック_|_Tech_Stack-1a1b27?style=for-the-badge&labelColor=00D9FF&color=1a1b27" width="100%"/>
+  <img src="https://img.shields.io/badge/💻_技術スタック_|_Tech_Stack-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-  
-### 🤖 **AI & 機械学習 | Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+## 🛠️ **技術スタック**
 
-### 💻 **言語 & フレームワーク | Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+### 🤖 **AI & 機械学習**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### ☁️ **クラウド & インフラ | Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+### 💻 **言語 & フレームワーク**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🔗 **Web3 & ブロックチェーン | Blockchain**
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-00D9FF?style=for-the-badge"/>
-</p>
+### ☁️ **クラウド & インフラ**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-</div>
+### 🔗 **Web3 & ブロックチェーン**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-00D9FF?style=flat-square)
 
 <br>
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📊_GitHub統計_|_GitHub_Analytics-1a1b27?style=for-the-badge&labelColor=4C71F2&color=1a1b27" width="100%"/>
+  <img src="https://img.shields.io/badge/📊_GitHub統計_|_GitHub_Analytics-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daideguchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daideguchi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daideguchi&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&icon_color=4A90E2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daideguchi&layout=compact&langs_count=8&theme=vue&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daideguchi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=daideguchi&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daideguchi&theme=vue&hide_border=true&background=FFFFFF&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=2C3E50" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=daideguchi&theme=vue&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%"/>
 </div>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daideguchi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daideguchi&theme=vue&hide_border=true&bg_color=FFFFFF&color=4A90E2&line=4A90E2&point=FF6B6B" width="100%"/>
 </div>
 
 <br>
 
 <!-- Contact Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📫_つながりましょう_|_Let's_Connect-1a1b27?style=for-the-badge&labelColor=FF6B6B&color=1a1b27" width="100%"/>
+  <img src="https://img.shields.io/badge/📫_つながりましょう_|_Let's_Connect-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <p>
-    <b>🚀 AIプロジェクトでのコラボレーションに興味がありますか？</b><br>
-    <i>革新的なAIソリューションやパートナーシップについて、いつでもお気軽にご相談ください！</i><br>
-    <small>Interested in collaborating on AI projects? I'm always open to discussing innovative AI solutions!</small>
-  </p>
   
-  <a href="https://github.com/daideguchi">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 🤝 **コラボレーション & コンタクト**
+
+**🚀 AIプロジェクトでのコラボレーションに興味がありますか？**
+
+革新的なAIソリューションやパートナーシップについて、いつでもお気軽にご相談ください！
+
+*Interested in collaborating on AI projects? I'm always open to discussing innovative AI solutions!*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daideguchi)
+[![Email](https://img.shields.io/badge/Email-4A90E2?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://daideguchi.github.io/tec_studies_blog/)
+
 </div>
 
 <br>

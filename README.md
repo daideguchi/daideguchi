@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AI%20Tech%20Entrepreneur&fontSize=50&fontAlignY=35&desc=Building%20the%20Future%20with%20Artificial%20Intelligence&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:2C5AA0&height=250&section=header&text=AIテクノロジー起業家&fontSize=50&fontAlignY=35&desc=人工知能で未来を創造する%20|%20AI%20Tech%20Entrepreneur&descAlignY=55&animation=twinkling" width="100%"/>
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">

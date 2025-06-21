@@ -58,9 +58,15 @@
 
 <br>
 
-## 🎯 **主要AIプロダクト**
+## 🎯 **主要プロダクト**
 
-### 📱 **モバイル & Web アプリケーション**
+### 🚀 **注目のプロダクト**
+
+| プロダクト | 説明 | 技術スタック |
+|:---|:---|:---|
+| [⚡ **Git Auto Push**](https://github.com/daideguchi/git-autopush) | 🔥 **NEW!** Git操作を完全自動化するツール<br>*Fully automated Git operations tool* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) |
+
+### 📱 **AI & モバイルアプリケーション**
 
 | プロダクト | 説明 | 技術スタック |
 |:---|:---|:---|
@@ -68,13 +74,13 @@
 | [📝 **YouTubeシナリオAI**](https://youtube-writer.onrender.com) | 魅力的な動画シナリオを自動生成<br>*Auto-generate engaging video scripts* | ![GPT](https://img.shields.io/badge/GPT-74aa9c?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat) |
 | [💬 **AIチャットマスター**](https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242) | 高度なAI会話アプリ<br>*Advanced AI conversation app* | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat) |
 
-### 🛍️ **AI アシスタント & 自動化**
+### 🛍️ **AIアシスタント & 自動化ツール**
 
 | プロダクト | 説明 | 技術スタック |
 |:---|:---|:---|
 | [🛍️ **楽天ショッピングAIアシスタント**](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto) | スマートショッピング推薦GPT<br>*Smart shopping recommendation GPT* | ![GPTs](https://img.shields.io/badge/GPTs-412991?style=flat) ![E-commerce](https://img.shields.io/badge/E--commerce-FF6F61?style=flat) |
-| [🤖 **完全自動ブログシステム**](https://tec-hack-blog.site/) | AI駆動コンテンツ生成<br>*AI-driven content generation system* | ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) ![CMS](https://img.shields.io/badge/CMS-FF5722?style=flat) |
-| [⚡ **WordPress自動投稿ツール**](https://note.com/dai_11107/n/ndbb356870a81) | 自動投稿Pythonスクリプト<br>*Python script for auto-posting* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![API](https://img.shields.io/badge/API-FF9800?style=flat) |
+| [🤖 **完全自動ブログシステム**](https://tec-hack-blog.site/) | AI駆動コンテンツ生成システム<br>*AI-driven content generation system* | ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) ![CMS](https://img.shields.io/badge/CMS-FF5722?style=flat) |
+| [⚡ **WordPress自動投稿ツール**](https://note.com/dai_11107/n/ndbb356870a81) | 自動投稿Pythonスクリプト<br>*Python script for auto-posting* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
 
 <br>
 

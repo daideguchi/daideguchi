@@ -35,7 +35,7 @@
 
 <br>
 
-## 🧠 **AIイノベーションリーダー | AI Innovation Leader**
+## 🧠 **AI イノベーションリーダー | AI Innovation Leader**
 
 <div align="center">
   
@@ -62,25 +62,107 @@
 
 ### 🚀 **注目のプロダクト**
 
-| プロダクト | 説明 | 技術スタック |
-|:---|:---|:---|
-| [⚡ **Git Auto Push**](https://github.com/daideguchi/git-autopush) | 🔥 **NEW!** Git操作を完全自動化するツール<br>*Fully automated Git operations tool* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) |
+| プロダクト                                                         | 説明                                                                                | 技術スタック                                                                                                                                                                                                                                              |
+| :----------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [⚡ **Git Auto Push**](https://github.com/daideguchi/git-autopush) | 🔥 **NEW!** Git 操作を完全自動化するツール<br>_Fully automated Git operations tool_ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) |
 
 ### 📱 **AI & モバイルアプリケーション**
 
-| プロダクト | 説明 | 技術スタック |
-|:---|:---|:---|
-| [🎥 **YouTube収益化分析ツール**](https://youtube-adcheck.com) | AIによるYouTubeチャンネル分析<br>*AI-powered monetization analysis* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-00D9FF?style=flat) |
-| [📝 **YouTubeシナリオAI**](https://youtube-writer.onrender.com) | 魅力的な動画シナリオを自動生成<br>*Auto-generate engaging video scripts* | ![GPT](https://img.shields.io/badge/GPT-74aa9c?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat) |
-| [💬 **AIチャットマスター**](https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242) | 高度なAI会話アプリ<br>*Advanced AI conversation app* | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat) |
+<div align="center">
+  
+  <!-- GenSpark AI統合開発 -->
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🤖 <strong>GenSpark 作成ページ</strong></h3>
+          <p><em>GenSpark AI で作成したプロジェクトページ</em><br>
+          <strong>Project page created with GenSpark AI platform</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/GenSpark-00D9FF?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/AI%20Generated-FF6B6B?style=for-the-badge" />
+          </p>
+          <p><a href="https://www.genspark.ai/api/page_private?id=lyiyesms">
+            <img src="https://img.shields.io/badge/EXPLORE-4A90E2?style=for-the-badge&logo=external-link&logoColor=white" />
+          </a></p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>📂 <strong>daideguchi リポジトリ</strong></h3>
+          <p><em>個人開発プロジェクトとポートフォリオ管理</em><br>
+          <strong>Personal development projects and portfolio management</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Projects-00C853?style=for-the-badge" />
+          </p>
+          <p><a href="https://github.com/daideguchi/daideguchi">
+            <img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- YouTube関連ツール -->
+  <table width="100%">
+    <tr>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3>🎥 <strong>YouTube 収益化分析</strong></h3>
+          <p><em>AI による YouTube チャンネル分析</em><br>
+          <strong>AI-powered monetization analysis</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI-00D9FF?style=for-the-badge" />
+          </p>
+          <p><a href="https://youtube-adcheck.com">
+            <img src="https://img.shields.io/badge/TRY%20NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+          </a></p>
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3>📝 <strong>YouTube シナリオ AI</strong></h3>
+          <p><em>魅力的な動画シナリオを自動生成</em><br>
+          <strong>Auto-generate engaging video scripts</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+            <img src="https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge" />
+          </p>
+          <p><a href="https://youtube-writer.onrender.com">
+            <img src="https://img.shields.io/badge/CREATE-00C853?style=for-the-badge&logo=edit&logoColor=white" />
+          </a></p>
+        </div>
+      </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3>💬 <strong>AI チャットマスター</strong></h3>
+          <p><em>高度な AI 会話アプリ</em><br>
+          <strong>Advanced AI conversation app</strong></p>
+          <p>
+            <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+            <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge" />
+          </p>
+          <p><a href="https://apps.apple.com/jp/app/ai-chat-マスター/id6479726242">
+            <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+          </a></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-### 🛍️ **AIアシスタント & 自動化ツール**
+### 🛍️ **AI アシスタント & 自動化ツール**
 
-| プロダクト | 説明 | 技術スタック |
-|:---|:---|:---|
-| [🛍️ **楽天ショッピングAIアシスタント**](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto) | スマートショッピング推薦GPT<br>*Smart shopping recommendation GPT* | ![GPTs](https://img.shields.io/badge/GPTs-412991?style=flat) ![E-commerce](https://img.shields.io/badge/E--commerce-FF6F61?style=flat) |
-| [🤖 **完全自動ブログシステム**](https://tec-hack-blog.site/) | AI駆動コンテンツ生成システム<br>*AI-driven content generation system* | ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) ![CMS](https://img.shields.io/badge/CMS-FF5722?style=flat) |
-| [⚡ **WordPress自動投稿ツール**](https://note.com/dai_11107/n/ndbb356870a81) | 自動投稿Pythonスクリプト<br>*Python script for auto-posting* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
+| プロダクト                                                                                                     | 説明                                                                   | 技術スタック                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🛍️ **楽天ショッピング AI アシスタント**](https://chat.openai.com/g/g-qGWbZqEkN-le-tian-siyotupinguasisutanto) | スマートショッピング推薦 GPT<br>_Smart shopping recommendation GPT_    | ![GPTs](https://img.shields.io/badge/GPTs-412991?style=flat) ![E-commerce](https://img.shields.io/badge/E--commerce-FF6F61?style=flat)                                                             |
+| [🤖 **完全自動ブログシステム**](https://tec-hack-blog.site/)                                                   | AI 駆動コンテンツ生成システム<br>_AI-driven content generation system_ | ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) ![CMS](https://img.shields.io/badge/CMS-FF5722?style=flat)                                                                |
+| [⚡ **WordPress 自動投稿ツール**](https://note.com/dai_11107/n/ndbb356870a81)                                  | 自動投稿 Python スクリプト<br>_Python script for auto-posting_         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
 
 <br>
 
@@ -94,6 +176,7 @@
 ## 🛠️ **技術スタック**
 
 ### 🤖 **AI & 機械学習**
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -101,6 +184,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 💻 **言語 & フレームワーク**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -110,12 +194,14 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### ☁️ **クラウド & インフラ**
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### 🔗 **Web3 & ブロックチェーン**
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
@@ -158,11 +244,11 @@
   
 ## 🤝 **コラボレーション & コンタクト**
 
-**🚀 AIプロジェクトでのコラボレーションに興味がありますか？**
+**🚀 AI プロジェクトでのコラボレーションに興味がありますか？**
 
-革新的なAIソリューションやパートナーシップについて、いつでもお気軽にご相談ください！
+革新的な AI ソリューションやパートナーシップについて、いつでもお気軽にご相談ください！
 
-*Interested in collaborating on AI projects? I'm always open to discussing innovative AI solutions!*
+_Interested in collaborating on AI projects? I'm always open to discussing innovative AI solutions!_
 
 <br>
 
@@ -184,6 +270,11 @@
 プロフィールをご覧いただき、ありがとうございます！
 AI、自動化、Web3に興味がある方、一緒に素晴らしいものを作りましょう！🚀
 
-Thanks for checking out my profile! 
+Thanks for checking out my profile!
 If you're interested in AI, automation, or Web3, let's connect and build something amazing together! 🚀
 -->
+
+## 📚 ドキュメント
+
+- [Gemini CLI 資料（GenSpark 作成）](https://www.genspark.ai/api/page_private?id=dlafnvrx)
+  - Gemini CLI の使い方や活用例をまとめたドキュメントです。GenSpark プラットフォームで作成しました。

@@ -7,7 +7,7 @@
   
   <!-- Fixed Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+👋;AI+Safety+%26+Innovation+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+👋;AI+Safety+and+Innovation+Leader" alt="Typing SVG" />
   </a>
   
   <br><br>

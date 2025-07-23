@@ -66,6 +66,27 @@
 | :----------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [⚡ **Git Auto Push**](https://github.com/daideguchi/git-autopush) | 🔥 **NEW!** Git 操作を完全自動化するツール<br>_Fully automated Git operations tool_ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat) |
 
+### 🛡️ **AI安全ガバナンスシステム**
+
+<div align="center">
+  <a href="https://github.com/daideguchi/ai-safety-governance-template">
+    <img src="https://img.shields.io/badge/🛡️_AI_Safety_Governance_System-WORLD_CLASS_AI_SAFETY_FRAMEWORK-red?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+| プロダクト | 説明 | 技術スタック |
+|:---|:---|:---|
+| [🛡️ **AI Safety Governance Template**](https://github.com/daideguchi/ai-safety-governance-template) | 🏆 **企業レベル** - 完全なAIエージェント安全フレームワーク<br>_Complete AI Agent Safety Framework for Production Use_<br>**✅ NIST AI RMF準拠 (78.0%) ✅ 統合テスト82.2%** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI_Safety-FF4444?style=flat) ![NIST](https://img.shields.io/badge/NIST_AI_RMF-0066CC?style=flat) |
+
+**🎯 主な特徴:**
+- **🛡️ AI安全ガバナンス**: 国際標準NIST AI RMF準拠の企業レベル安全システム
+- **🏢 AI組織システム**: 8役職の自動生成・協調による完全自動化
+- **🔄 継続的改善**: 実際のミス発生時の自動学習・予防メカニズム
+- **🚀 ワンコマンド起動**: `make startup`で即座に利用可能
+- **🤖 GitHub Actions統合**: @claude記載でAI自動処理・PR自動レビュー
+
 ### 📱 **AI & モバイルアプリケーション**
 
 <div align="center">

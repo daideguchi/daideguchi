@@ -1,13 +1,13 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AI%20Innovation%20Leader&fontSize=40&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20Safety%20%26%20Innovation&descAlignY=55&animation=twinkling" width="100%"/>
+  <!-- Animated Header - Fixed URLs -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AI%20Innovation%20Leader&fontSize=40&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20Safety%20Innovation&descAlignY=55&animation=twinkling" width="100%"/>
   
   <br>
   
-  <!-- Original Typing Animation - Fixed -->
+  <!-- Fixed Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+%F0%9F%91%8B;AI+Safety+%26+Innovation+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+👋;AI+Safety+%26+Innovation+Leader" alt="Typing SVG" />
   </a>
   
   <br><br>

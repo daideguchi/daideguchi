@@ -87,6 +87,27 @@
 - **🚀 ワンコマンド起動**: `make startup`で即座に利用可能
 - **🤖 GitHub Actions統合**: @claude記載でAI自動処理・PR自動レビュー
 
+### 🤖 **AI開発コンパニオンシステム**
+
+<div align="center">
+  <a href="https://github.com/daideguchi/ai-development-companion">
+    <img src="https://img.shields.io/badge/🤖_AI_Development_Companion-一人の優秀な人間のようなAI開発パートナー-blue?style=for-the-badge&logo=brain&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+| プロダクト | 説明 | 技術スタック |
+|:---|:---|:---|
+| [🤖 **AI Development Companion**](https://github.com/daideguchi/ai-development-companion) | 🧠 **記憶継承型** - Claude Codeと統合されたAI開発パートナー<br>_Intelligent AI Development Partner with Memory Inheritance_<br>**✅ 95%時間短縮 ✅ 99%自動化 ✅ 30秒セットアップ** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_Code-FF6B35?style=flat) |
+
+**🎯 革新的特徴:**
+- **🧠 AI記憶継承システム**: セッション間での完全な記憶継承・学習
+- **👑 President AI組織**: 8役職による自律的な協調開発システム
+- **🛡️ プロアクティブ保護**: 重要ファイル自動判定・階層バックアップ
+- **⚡ ワンコマンドUX**: 30秒で完全セットアップ・即座に開発開始
+- **📊 統一ログ管理**: 117+ファイルの自動統合・類似度検索
+
 ### 📱 **AI & モバイルアプリケーション**
 
 <div align="center">

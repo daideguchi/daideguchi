@@ -5,8 +5,10 @@
   
   <br>
   
-  <!-- Fixed Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🤖+AI+Innovation+Leader;🛡️+AI+Safety+Pioneer;🚀+Practical+AI+Tools+Creator" alt="Typing SVG" />
+  <!-- Original Typing Animation - Fixed -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+%F0%9F%91%8B;AI+Safety+%26+Innovation+Leader" alt="Typing SVG" />
+  </a>
   
   <br><br>
   
@@ -99,9 +101,9 @@
 
 | ツール名 | 何をするもの？ | 技術 |
 |:---|:---|:---|
-| 🚀 [**AI履歴書作成**](https://github.com/daideguchi/ai-resume-builder) | AIが自動で履歴書を最適化<br>*AI automatically optimizes resumes* | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 | 📰 [**AIニュース収集**](https://github.com/daideguchi/ai-news-dashboard) | 毎日のAIニュースを自動収集<br>*Daily AI news automation* | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| 🎨 [**画像自動生成**](https://github.com/daideguchi/spreadsheet-image-generator) | スプレッドシートから画像を自動生成<br>*Auto-generate images from spreadsheets* | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| ⚡ [**Git自動化ツール**](https://github.com/daideguchi/git-autopush) | Gitの操作を完全自動化<br>*Fully automated Git operations* | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| 📚 [**Cursor開発ガイド**](https://github.com/daideguchi/cursor-rules-guide) | AI駆動開発の教育サイト<br>*AI-driven development guide* | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 
 ---
 

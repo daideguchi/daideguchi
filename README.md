@@ -55,53 +55,51 @@
 
 ## 🏆 主要なAIプロジェクト | Main AI Projects
 
-### 🛡️ AI安全システム | AI Safety System
+### 🛡️ [AI Safety Governance Template](https://github.com/daideguchi/ai-safety-governance-template)
 
-<div align="center">
+**企業レベルのAI安全管理システム | Enterprise-Level AI Safety Management System**
 
-#### [AI Safety Governance Template](https://github.com/daideguchi/ai-safety-governance-template)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI_Safety-FF4444?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST_AI_RMF-0066CC?style=for-the-badge)
 
-**企業レベルのAI安全管理システム**  
-**Enterprise-Level AI Safety Management System**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI_Safety-FF4444?style=flat)
-![NIST](https://img.shields.io/badge/NIST_AI_RMF-0066CC?style=flat)
-
-</div>
-
-**何ができるか？ | What it does:**
+**主な機能:**
 - ✅ AIの安全性を78%向上（国際基準NIST準拠）
 - ✅ 8つのAI役職が自動で協力して開発
 - ✅ 1コマンドで完全セットアップ可能
 
-### 🤖 AI開発パートナー | AI Development Partner
+### 🤖 [AI Development Companion](https://github.com/daideguchi/ai-development-companion)
 
-<div align="center">
+**記憶を持つAI開発アシスタント | AI Development Assistant with Memory**
 
-#### [AI Development Companion](https://github.com/daideguchi/ai-development-companion)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge)
 
-**記憶を持つAI開発アシスタント**  
-**AI Development Assistant with Memory**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-FF6B35?style=flat)
-
-</div>
-
-**何ができるか？ | What it does:**
+**主な機能:**
 - ✅ 開発時間を95%短縮
 - ✅ 99%のタスクを自動化
 - ✅ 過去の会話を覚えて学習
 
 ### 🚀 実用的なAIツール | Practical AI Tools
 
-| ツール名 | 何をするもの？ | 技術 |
-|:---|:---|:---|
-| 📰 [**AIニュース収集**](https://github.com/daideguchi/ai-news-dashboard) | 毎日のAIニュースを自動収集<br>*Daily AI news automation* | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ⚡ [**Git自動化ツール**](https://github.com/daideguchi/git-autopush) | Gitの操作を完全自動化<br>*Fully automated Git operations* | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| 📚 [**Cursor開発ガイド**](https://github.com/daideguchi/cursor-rules-guide) | AI駆動開発の教育サイト<br>*AI-driven development guide* | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+#### 🎨 [スプレッドシート画像生成ツール](https://github.com/daideguchi/spreadsheet-image-generator)
+**OpenAI DALL-E APIでスプレッドシートに画像生成 | AI Image Generation in Spreadsheets**
+
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### ⚡ [Git自動化ツール](https://github.com/daideguchi/git-autopush)
+**ワンコマンドGitプッシュツール | One-Command Git Automation**
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 📚 [Cursor開発ガイド](https://github.com/daideguchi/cursor-rules-guide)
+**AI駆動開発の教育サイト | AI-Driven Development Guide**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 

@@ -6,7 +6,7 @@
   <br>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+%F0%9F%91%8B;AI+Safety+%26+Innovation+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+%F0%9F%91%8B" alt="Typing SVG" />
   
   <br><br>
   

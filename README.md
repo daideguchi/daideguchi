@@ -45,7 +45,7 @@
 
 ### 🎯 私の使命 | My Mission
 
-**ai * youtuber**として、フルスタック開発から企業レベルのAI統合まで、教育・コンテンツ分野での革新的なソリューション開発に注力しています。Django + React、Google Cloud Platform、OpenAI APIを活用した本格的なAIプラットフォームの設計・開発・運用を統括しています。
+**AI * YouTuber**として、フルスタック開発から企業レベルのAI統合まで、教育・コンテンツ分野での革新的なソリューション開発に注力しています。Django + React、Google Cloud Platform、OpenAI APIを活用した本格的なAIプラットフォームの設計・開発・運用を統括しています。
 
 **技術領域と実績：**
 - 🎓 **教育AIプラットフォーム** - Asagami AI本格運用（Django + React + PostgreSQL）
@@ -56,7 +56,7 @@
 - 🧠 **AI記憶継承システム** - Claude Code用大規模メモリ管理（4,370ファイル）
 - 🚀 **DevOps・自動化** - CI/CD、GitHub Actions、Vercel自動デプロイ
 
-> As **ai * youtuber** and Director at Eletus, I lead **full-stack development of production-grade AI platforms** integrating Google Cloud Platform, YouTube APIs, and advanced AI technologies for real-world applications.
+> As **AI * YouTuber** and Director at Eletus, I lead **full-stack development of production-grade AI platforms** integrating Google Cloud Platform, YouTube APIs, and advanced AI technologies for real-world applications.
 
 ---
 

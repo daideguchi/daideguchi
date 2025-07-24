@@ -5,10 +5,8 @@
   
   <br>
   
-  <!-- Original Typing Animation - Fixed -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+👋;AI+Safety+&+Innovation+Leader" alt="Typing SVG" />
-  </a>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=AI+Innovation+Leader;AI+Safety+Pioneer;Building+World-Class+AI+Systems" alt="Typing SVG" />
   
   <br><br>
   

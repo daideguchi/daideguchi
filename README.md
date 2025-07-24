@@ -45,17 +45,18 @@
 
 ### 🎯 私の使命 | My Mission
 
-フルスタック開発から企業レベルのAI統合まで、教育分野での革新的なソリューション開発に注力しています。Django + React、Azure Cloud、OpenAI APIを活用した本格的な教育AIプラットフォームの設計・開発・運用を統括しています。
+**ai * youtuber**として、フルスタック開発から企業レベルのAI統合まで、教育・コンテンツ分野での革新的なソリューション開発に注力しています。Django + React、Google Cloud Platform、OpenAI APIを活用した本格的なAIプラットフォームの設計・開発・運用を統括しています。
 
 **技術領域と実績：**
 - 🎓 **教育AIプラットフォーム** - Asagami AI本格運用（Django + React + PostgreSQL）
-- ☁️ **Azure Cloud統合** - Document Intelligence、Storage、マルチ環境運用
-- 🔧 **API開発・統合** - OpenAI API、外部システム連携API 11エンドポイント
+- ☁️ **Google Cloud Platform** - YouTube Data API v3、OAuth 2.0、GAS統合開発
+- 🎬 **YouTube AI分析システム** - チャンネル分析、AI戦略提案、Claude API統合
+- 🔧 **API開発・統合** - YouTube API、OpenAI API、外部システム連携API 11エンドポイント
 - 🛡️ **企業レベルセキュリティ** - APIキー管理、マルチテナント、権限制御
 - 🧠 **AI記憶継承システム** - Claude Code用大規模メモリ管理（4,370ファイル）
 - 🚀 **DevOps・自動化** - CI/CD、GitHub Actions、Vercel自動デプロイ
 
-> As Director at Eletus, I lead **full-stack development of production-grade AI education platform** serving real users with enterprise-level security and scalability.
+> As **ai * youtuber** and Director at Eletus, I lead **full-stack development of production-grade AI platforms** integrating Google Cloud Platform, YouTube APIs, and advanced AI technologies for real-world applications.
 
 ---
 
@@ -222,9 +223,31 @@
 
 ---
 
+### 📺 [YouTube AI 分析ツール](https://github.com/daideguchi/youtube-sheet-backup)
+
+**GCP統合YouTube分析システム | GCP-Integrated YouTube Analytics System**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-FF6B35?style=for-the-badge)
+
+**主な実績：**
+- ✅ **YouTube Data API v3**: 本格的なチャンネル・動画分析システム実装
+- ✅ **OAuth 2.0認証**: Google Cloud Console統合認証システム
+- ✅ **Claude API統合**: AI戦略分析・推薦システム（1日50回制限管理）
+- ✅ **Google Apps Script**: プロダクションレベルのGAS開発
+- ✅ **多機能分析**: エンゲージメント、視聴者層、トラフィック分析
+
+---
+
 ## 💻 使える技術 | Technical Skills
 
 <div align="center">
+
+### ☁️ Cloud Platform
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🤖 AI関連
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -234,11 +257,12 @@
 ### 🌐 Web開発
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔗 Web3・ブロックチェーン
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+### 🎬 YouTube Development
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 

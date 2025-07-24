@@ -61,7 +61,7 @@
 
 ## 🏆 主要なAIプロジェクト | Main AI Projects
 
-### 🎓 [Asagami AI](https://github.com/daideguchi/study-self) (Private)
+### 🎓 [Asagami AI]([https://github.com/daideguchi/study-self](https://asagamiai.com/)) (Private)
 
 **本格運用中の教育AIプラットフォーム | Production-Grade Educational AI Platform**
 

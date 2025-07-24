@@ -61,7 +61,7 @@
 
 ## 🏆 主要なAIプロジェクト | Main AI Projects
 
-### 🎓 ![Asagami AI](https://asagamiai.com/)
+### 🎓 [Asagami AI](https://asagamiai.com)
 
 **本格運用中の教育AIプラットフォーム | Production-Grade Educational AI Platform**
 

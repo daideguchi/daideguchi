@@ -27,7 +27,7 @@
 - 専門：AI×業務効率化、データサイエンス
 - 得意ツール：Claude／Claude Code（最も得意）、Python
 - 自動化：アプリ開発・動画自動生成・画像自動生成などを組み合わせたワークフロー構築が得意
-- インフラ：Google Cloudに強み
+- インフラ："Google Cloud"と"Azure"が得意
 
 <br>
 

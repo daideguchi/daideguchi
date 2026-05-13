@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AIテクノロジー起業家&fontSize=50&fontAlignY=35&desc=人工知能で未来を創造する%20|%20AI%20Tech%20Entrepreneur&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AIのことならお任せください！&fontSize=50&fontAlignY=35&desc=人工知能で未来を創造する起業家%20|%20AI%20Tech%20Entrepreneur&descAlignY=55&animation=twinkling" width="100%"/>
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -21,10 +21,11 @@
 
 ## 👤 **私とはこんな人**
 
-- YouTubeを軸とした動画自動生成パイプラインを開発中。（2025年追記）
-- FXのAI自動売買ツールを開発中
+- AIのスペシャリストエンジニア（ Google Cloud Generative AI Leader）
+- YouTubeを軸とした動画自動生成パイプラインを開発中。（2026年追記）
+- FXのAI自動売買ツールを開発中【実績：安定月利35%のEAを開発】
 - 元公務員→起業・フリーランス・YouTuber・受託開発
-- 【法人】スタートアップ企業：教育AIアプリを開発
+- 【法人】スタートアップ共同創業：教育AIアプリを開発
 - 【個人】AIを活用したYouTubeチャンネル運営（累計100チャンネル以上／登録者合計20万人以上）／AIコンサル／AI動画コンサルも対応
 - 専門：AI×業務効率化、データサイエンス
 - 得意ツール：codexなどのAIエージェント系、Python、React
@@ -39,6 +40,7 @@
 - ⚡ Git Auto Push — Git操作の自動化ツール
 - 🎥 YouTube収益化分析ツール — チャンネル分析
 - 💬 AIチャットマスター — 会話アプリ
+- 🪙 物販リサーチツール
 
 <br>
 

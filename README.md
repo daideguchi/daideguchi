@@ -43,6 +43,7 @@
 - 💬 AIチャットマスター — 会話アプリ
 - 🪙 物販リサーチツール
 - 🔮 履歴から人格を当てるエンタメ (https://ura-persona.xyz/)
+- 💰 FX自動売買ツールローンチ (https://kurogane-edge-core-lp.vercel.app/)
 
 <br>
 

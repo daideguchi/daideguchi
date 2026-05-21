@@ -35,6 +35,7 @@
 <br>
 
 ## 🧩 **選抜プロダクト**
+ポートフォリオ https://devpost.com/daideguchi
 
 - ✏️Asagami Ai ー ノートを使ったAI学習管理ツール（導入実績あり）
 - ⚡ Git Auto Push — Git操作の自動化ツール

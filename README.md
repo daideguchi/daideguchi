@@ -1,19 +1,17 @@
 <div align="center">
 
-  <a href="./README.md">日本語</a> |
-  <a href="./README.en.md">English</a>
+  <strong>English</strong> |
+  <a href="./README.ja.md">日本語</a>
 
   <br><br>
 
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=AIは私にお任せください！&fontSize=50&fontAlignY=35&desc=人工知能で未来を創造する起業家%20|%20AI%20Tech%20Entrepreneur&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Leave%20AI%20to%20me!&fontSize=50&fontAlignY=35&desc=AI%20Tech%20Entrepreneur%20%7C%20Product%20Developer&descAlignY=55&animation=twinkling" width="100%"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there!+I'm+Dai+Deguchi+%F0%9F%91%8B;AI+Product+Developer+%26+Tech+Entrepreneur" alt="Typing SVG" />
   </a>
-
-
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=daideguchi&style=for-the-badge&color=00D9FF" alt="Profile views"/>
 
@@ -21,53 +19,50 @@
 
 <br>
 
+## 👤 **About Me**
 
-
-
-## 👤 **私とはこんな人**
-
-- AIのスペシャリストエンジニア（ Google Cloud Generative AI Leader）
-- YouTubeを軸とした動画自動生成パイプラインを開発中。（2026年追記）
-- FXのAI自動売買ツールを開発中【実績：安定月利35%のEAを開発】
-- 元公務員→起業・フリーランス・YouTuber・受託開発
-- 【法人】スタートアップ共同創業：教育AIアプリを開発
-- 【個人】AIを活用したYouTubeチャンネル運営（累計100チャンネル以上／登録者合計20万人以上）／AIコンサル／AI動画コンサルも対応
-- 専門：AI×業務効率化、データサイエンス
-- 得意ツール：codexなどのAIエージェント系、Python、React
-- 自動化：AIエージェントの制御／プログラミング×動画・画像生成など組み合わせたワークフロー構築が得意
-- インフラ："Google Cloud"と"Azure"が得意
+- AI specialist engineer and Google Cloud Generative AI Leader
+- Building YouTube-centered video generation automation pipelines (2026 update)
+- Developing AI-powered FX automated trading tools, including an EA with a stable 35% monthly return track record
+- Former public servant turned entrepreneur, freelancer, YouTuber, and contract developer
+- Startup co-founder building an educational AI app
+- Personally operated AI-powered YouTube channels: 100+ channels and 200,000+ total subscribers
+- Available for AI consulting, AI video consulting, and business automation support
+- Focus areas: AI x business automation, data science, workflow design
+- Main tools: AI agents such as Codex, Python, React
+- Automation strengths: AI-agent control, programming, video/image generation workflows, and practical production pipelines
+- Infrastructure strengths: Google Cloud and Azure
 
 <br>
 
-## 🧩 **選抜プロダクト**
-ポートフォリオ https://devpost.com/daideguchi
+## 🧩 **Selected Products**
 
-- ✏️Asagami Ai ー ノートを使ったAI学習管理ツール（導入実績あり）
-- ⚡ Git Auto Push — Git操作の自動化ツール
-- 🎥 YouTube収益化分析ツール — チャンネル分析
-- 💬 AIチャットマスター — 会話アプリ
-- 🪙 物販リサーチツール
-- 🔮 履歴から人格を当てるエンタメ (https://ura-persona.xyz/)
-- 💰 FX自動売買ツールローンチ (https://kurogane-edge-core-lp.vercel.app/)
+Portfolio: https://devpost.com/daideguchi
+
+- ✏️ Asagami Ai — AI learning management tool built around note-taking, with real usage
+- ⚡ Git Auto Push — automation tool for Git operations
+- 🎥 YouTube Monetization Analytics Tool — channel analysis and monetization support
+- 💬 AI Chat Master — conversational AI application
+- 🪙 Merchandise research tool
+- 🔮 Entertainment app that estimates personality from history: https://ura-persona.xyz/
+- 💰 FX automated trading tool launch: https://kurogane-edge-core-lp.vercel.app/
 
 <br>
 
 <!-- Contact Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📫_つながりましょう_|_Let's_Connect-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
+  <img src="https://img.shields.io/badge/📫_Let's_Connect-FFFFFF?style=for-the-badge&labelColor=4A90E2&color=F8F9FA" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-## 🤝 **コラボレーション & コンタクト**
+## 🤝 **Collaboration & Contact**
 
-**🚀 AIプロジェクトでのコラボレーションに興味がありますか？**
+**🚀 Interested in collaborating on AI projects?**
 
-革新的なAIソリューションやパートナーシップについて、いつでもお気軽にご相談ください！
-
-*Interested in collaborating on AI projects? I'm always open to discussing innovative AI solutions!*
+I am open to discussing AI solutions, automation systems, practical product development, and partnerships.
 
 <br>
 
@@ -86,9 +81,6 @@
 
 <!-- Hidden Message -->
 <!--
-プロフィールをご覧いただき、ありがとうございます！
-AI、自動化、Web3に興味がある方、一緒に素晴らしいものを作りましょう！🚀
-
 Thanks for checking out my profile!
-If you're interested in AI, automation, or Web3, let's connect and build something amazing together! 🚀
+If you're interested in AI, automation, or Web3, let's connect and build something useful.
 -->

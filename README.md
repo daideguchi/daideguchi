@@ -37,7 +37,11 @@
 
 ## 🧩 **Selected Products**
 
-Portfolio: https://devpost.com/daideguchi
+Main product portfolio: https://ai-revenue-portfolio.vercel.app/
+
+Devpost profile: https://devpost.com/daideguchi
+
+- 🌐 DD AI Product Portfolio — a simple public hub for human-AI products, demos, proof links, and hackathon work: https://ai-revenue-portfolio.vercel.app/
 
 - ✏️ Asagami Ai — AI learning management tool built around note-taking, with real usage
 - ⚡ Git Auto Push — automation tool for Git operations

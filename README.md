@@ -47,7 +47,7 @@ Devpost profile: https://devpost.com/daideguchi
 - 💬 AI Chat Master — conversational AI application
 - 🪙 Merchandise research tool
 - 🔮 Entertainment app that estimates personality from history: https://ura-persona.xyz/
-- 💰 FX automated trading tool launch: [https://kurogane-edge-core-lp.vercel.app/](https://kurogane-edge-core-lp.vercel.app/kurogane)
+- 💰 FX automated trading tool launch: https://kurogane-edge-core-lp.vercel.app/kurogane
 
 <br>
 

@@ -41,8 +41,6 @@
 
 ## 🧩 **選抜プロダクト**
 
-メイン作品集: https://ai-revenue-portfolio.vercel.app/
-
 Devpost: https://devpost.com/daideguchi
 
 - 🌐 DD AI作品集 — AIと作った公開作品、デモ、確認できるリンク、ハッカソン作品をまとめた入口: https://ai-revenue-portfolio.vercel.app/

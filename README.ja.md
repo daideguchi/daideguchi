@@ -47,6 +47,7 @@ Devpost: https://devpost.com/daideguchi
 
 - ✏️Asagami Ai ー ノートを使ったAI学習管理ツール（導入実績あり）
 - ⚡ Git Auto Push — Git操作の自動化ツール
+- 🔎 ブックまくりサーチ（Bookmark Search） — 保存済みブックマークをすばやく探せるChrome拡張機能（実利用あり）: https://github.com/daideguchi/bookmark_sarcher
 - 🎥 YouTube収益化分析ツール — チャンネル分析
 - 💬 AIチャットマスター — 会話アプリ
 - 🪙 物販リサーチツール

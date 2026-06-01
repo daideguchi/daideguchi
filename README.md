@@ -43,7 +43,7 @@ Devpost profile: https://devpost.com/daideguchi
 
 - ✏️ Asagami Ai — AI learning management tool built around note-taking, with real usage
 - ⚡ Git Auto Push — automation tool for Git operations
-- 🔎 Book Makuri Search (Bookmark Search) — Chrome extension that makes saved bookmarks easier to search, with real users: https://github.com/daideguchi/bookmark_sarcher
+- 🔎 Book Makuri Search (Bookmark Search) — Chrome extension for fast bookmark search, with a 4.6-4.7 star rating and 10,000+ users: https://github.com/daideguchi/bookmark_sarcher
 - 🎥 YouTube Monetization Analytics Tool — channel analysis and monetization support
 - 💬 AI Chat Master — conversational AI application
 - 🪙 Merchandise research tool

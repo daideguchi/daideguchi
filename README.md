@@ -40,6 +40,7 @@
 Devpost profile: https://devpost.com/daideguchi
 
 - 🌐 DD AI Product Portfolio — a simple public hub for human-AI products, demos, proof links, and hackathon work: https://ai-revenue-portfolio.vercel.app/
+- 🧾 FormPilot Vault — confirm-first Chrome extension for AI-assisted form autofill. AI maps form fields, while personal values stay in the local encrypted Vault: [Site](https://formpilot-vault-api.vercel.app/) / [Chrome Web Store](https://chromewebstore.google.com/detail/formpilot-vault/kmlcabffhmenjajmlnkkglphjnbaahlf) / [GitHub](https://github.com/daideguchi/formpilot-vault)
 
 - ✏️ Asagami Ai — AI learning management tool built around note-taking, with real usage
 - ⚡ Git Auto Push — automation tool for Git operations

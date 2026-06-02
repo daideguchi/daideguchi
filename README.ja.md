@@ -44,6 +44,7 @@
 Devpost: https://devpost.com/daideguchi
 
 - 🌐 DD AI作品集 — AIと作った公開作品、デモ、確認できるリンク、ハッカソン作品をまとめた入口: https://ai-revenue-portfolio.vercel.app/
+- 🧾 FormPilot Vault — 確認つきフォーム自動入力Chrome拡張。AIにはフォーム構造だけを送り、個人情報は端末内の暗号化Vaultから入力します: [サイト](https://formpilot-vault-api.vercel.app/) / [Chrome Web Store](https://chromewebstore.google.com/detail/formpilot-vault/kmlcabffhmenjajmlnkkglphjnbaahlf) / [GitHub](https://github.com/daideguchi/formpilot-vault)
 
 - ✏️Asagami Ai ー ノートを使ったAI学習管理ツール（導入実績あり）
 - ⚡ Git Auto Push — Git操作の自動化ツール

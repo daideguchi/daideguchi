@@ -22,6 +22,7 @@
 ## 👤 **About Me**
 
 - AI specialist engineer and Google Cloud Generative AI Leader
+- Building FormPilot Vault, a Chrome extension that fills web forms with user review while keeping personal values in a local Vault
 - Building YouTube-centered video generation automation pipelines (2026 update)
 - Developing AI-powered FX automated trading tools, including an EA with a stable 35% monthly return track record
 - Former public servant turned entrepreneur, freelancer, YouTuber, and contract developer
@@ -42,6 +43,7 @@ Devpost profile: https://devpost.com/daideguchi
 - 🌐 DD AI Product Portfolio — a simple public hub for human-AI products, demos, proof links, and hackathon work: https://ai-revenue-portfolio.vercel.app/
 - 🧾 FormPilot Vault — confirm-first Chrome extension for AI-assisted form autofill. AI maps form fields, while personal values stay in the local encrypted Vault: [Site](https://formpilot-vault-api.vercel.app/) / [Chrome Web Store](https://chromewebstore.google.com/detail/formpilot-vault/kmlcabffhmenjajmlnkkglphjnbaahlf) / [GitHub](https://github.com/daideguchi/formpilot-vault)
 
+- 🧾 FormPilot Vault — Chrome extension for reviewed form autofill with local Vault privacy: https://formpilot-vault-api.vercel.app/
 - ✏️ Asagami Ai — AI learning management tool built around note-taking, with real usage
 - ⚡ Git Auto Push — automation tool for Git operations
 - 🔎 Book Makuri Search (Bookmark Search) — Chrome extension for fast bookmark search, with a 4.6-4.7 star rating and 10,000+ users: https://github.com/daideguchi/bookmark_sarcher

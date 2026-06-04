@@ -27,6 +27,7 @@
 ## 👤 **私とはこんな人**
 
 - AIのスペシャリストエンジニア（ Google Cloud Generative AI Leader）
+- Chrome拡張 `FormPilot Vault` を開発中。Webフォームを確認つきで自動入力し、個人情報は端末内Vaultに残す設計
 - YouTubeを軸とした動画自動生成パイプラインを開発中。（2026年追記）
 - FXのAI自動売買ツールを開発中【実績：安定月利35%のEAを開発】
 - 元公務員→起業・フリーランス・YouTuber・受託開発
@@ -46,6 +47,7 @@ Devpost: https://devpost.com/daideguchi
 - 🌐 DD AI作品集 — AIと作った公開作品、デモ、確認できるリンク、ハッカソン作品をまとめた入口: https://ai-revenue-portfolio.vercel.app/
 - 🧾 FormPilot Vault — 確認つきフォーム自動入力Chrome拡張。AIにはフォーム構造だけを送り、個人情報は端末内の暗号化Vaultから入力します: [サイト](https://formpilot-vault-api.vercel.app/) / [Chrome Web Store](https://chromewebstore.google.com/detail/formpilot-vault/kmlcabffhmenjajmlnkkglphjnbaahlf) / [GitHub](https://github.com/daideguchi/formpilot-vault)
 
+- 🧾 FormPilot Vault — 確認つきフォーム自動入力Chrome拡張（Local Vault設計）: https://formpilot-vault-api.vercel.app/
 - ✏️Asagami Ai ー ノートを使ったAI学習管理ツール（導入実績あり）
 - ⚡ Git Auto Push — Git操作の自動化ツール
 - 🔎 ブックまくりサーチ（Bookmark Search） — 保存済みブックマークをすばやく探せるChrome拡張機能。星4.6〜4.7評価、ユーザー1万人以上: https://github.com/daideguchi/bookmark_sarcher
